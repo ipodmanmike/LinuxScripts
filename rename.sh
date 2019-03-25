@@ -1,5 +1,4 @@
-
-Based on the @Prince John Wesley answer, here is a simple bash script for changing all extensions of files in the current directory from ext1 to ext2. Also outputs names of the files being renamed.
+Here is a simple bash script for changing all extensions of files in the current directory from ext1 to ext2. Also outputs names of the files being renamed.
 
 #!/bin/bash
 for f in *.$1
